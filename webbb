@@ -1,0 +1,13 @@
+<a href=HTML.html>
+  <li>랭귀지 종류</li></a>
+<ol>
+  <a href="hp.html" target="_blank" title="website">
+    <li>HTML</li></a>
+  <li> <a href="JAVA.html">JAVA</a></li>
+  <a href="https://www.google.com/" target="_blank" title="website">
+    <li>C</li></a>
+  <a href="https://www.google.com/" target="_blank" title="website">
+    <li>C++</li></a>
+  <a href="https://www.google.com/" target="_blank" title="website">
+    <li>PYTHON</li></a>
+</ol> 
